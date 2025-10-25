@@ -1,6 +1,6 @@
 # Styled Table React
 
-A clean and responsive **React and Vite** project displaying a styled product table with color indicators, price details, and quantity inputs.
+A clean and responsive **React and Vite** project displaying a styled product table with color indicators, price details, and quantity inputs...
 
 ##  Tech Stack
 - React + Vite
