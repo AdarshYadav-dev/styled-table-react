@@ -1,9 +1,9 @@
-# Styled Table React
+# Styled Table React.
 
 A clean and responsive **React and Vite** project displaying a styled product table with color indicators, price details, and quantity inputs...
 
 ##  Tech Stack
-- React + Vite
+- React and Vite
 - CSS (custom responsive design)
 - JavaScript (JSX mapping for dynamic table rows)
 
